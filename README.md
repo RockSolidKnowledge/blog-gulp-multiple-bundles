@@ -1,5 +1,5 @@
 # About
-An example repo to support [this article], that provides a quick and simple working example.
+An example repo to support [this article], that provides a quick working example.
 
 # Usage
 

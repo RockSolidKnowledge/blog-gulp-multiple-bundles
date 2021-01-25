@@ -17,7 +17,7 @@ const CONFIGS = [
 ];
 
 function css() {
-    let tasks = CONFIGS.map(config => {
+    const tasks = CONFIGS.map(config => {
         return gulp.src(config.css.sourcePaths)
             .pipe(sass(config.thirdParty.sassOptions).on('error', sass.logError))
             .pipe(autoprefixer())
