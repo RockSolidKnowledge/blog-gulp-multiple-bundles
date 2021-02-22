@@ -1,5 +1,5 @@
 # About
-An example repo to support [this article], that provides a quick working example.
+A repo to support [this article](https://www.rocksolidknowledge.com/articles/using-gulp-to-create-multiple-asset-bundles), that provides a simple working example.
 
 # Usage
 
